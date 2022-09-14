@@ -1,0 +1,2 @@
+x='moksha'
+print(x)
